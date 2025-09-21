@@ -1,0 +1,5 @@
+{
+  "name": "Bulk Image Cropper",
+  "description": "An application to upload multiple images and apply the same crop dimensions to all of them. Users can define the crop area on the first image and download all cropped images as a single ZIP file.",
+  "requestFramePermissions": []
+}
